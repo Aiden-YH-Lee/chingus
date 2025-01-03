@@ -1,3 +1,5 @@
+This is our team's full-stack social media project for the class NETS2120 (scalable and cloud computing). The code is kept private by course policy, but can be shown upon request.
+
 ![Screenshot 2024-07-20 at 11 40 08 PM](https://github.com/user-attachments/assets/c2e0d1ba-f09f-400d-8fa3-ab8fb232ff79)
 ![Screenshot 2024-07-20 at 11 40 21 PM](https://github.com/user-attachments/assets/745a1481-46f6-44cb-8ec0-adf752d4eb3a)
 ![Screenshot 2024-07-20 at 11 40 53 PM](https://github.com/user-attachments/assets/6832bd6b-1ced-40d5-a93d-7cabf8e84593)
